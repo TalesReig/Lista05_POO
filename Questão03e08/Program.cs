@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CaluladoraDeVolumeDeCilindro
+namespace Questão03e08
 {
     internal class Program
     {
@@ -13,5 +13,5 @@ namespace CaluladoraDeVolumeDeCilindro
 
             Console.WriteLine("O volume desté cilindro é de:" + lataDeOleo.CalculaVolume());
         }
-    }   
+    }
 }

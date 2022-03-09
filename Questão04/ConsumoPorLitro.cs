@@ -1,4 +1,4 @@
-﻿namespace ConsumoDeCombustivel
+﻿namespace Questão04
 {
     internal class ConsumoPorLitro
     {
@@ -10,7 +10,7 @@
         double ResultadoDeAutonomia;
         public double KmPorLitro()
         {
-            ResultadoDeKmPorLitro = (KmFInal - KmInicial) * (LitrosDeGasolinaInicial - LitrosDeGasolinaInicial);
+            ResultadoDeKmPorLitro = (KmFinal - KmInicial) * (LitrosDeGasolinaInicial - LitrosDeGasolinaInicial);
             return ResultadoDeKmPorLitro;
         }
 

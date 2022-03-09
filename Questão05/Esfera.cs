@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VolumeDeEsfera
+namespace Questão05
 {
     internal class Esfera
     {

@@ -1,4 +1,4 @@
-﻿namespace ConversorDeTemperatura.ConsoleApp
+﻿namespace Questão02e06
 {
     internal class TemperaturaCelcius
     {

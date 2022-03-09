@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lista05_POO.AcadêmiaDoProgramador
+namespace Questão01
 {
     internal class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VolumeDeEsfera
+namespace Questão05
 {
     internal class Program
     {
@@ -9,7 +9,7 @@ namespace VolumeDeEsfera
             Esfera Bolinha = new Esfera();
             Bolinha.raio = 10;
 
-            Console.WriteLine("A o volume é de: "+Bolinha.CalcularVolume());
+            Console.WriteLine("A o volume é de: " + Bolinha.CalcularVolume());
         }
     }
 }

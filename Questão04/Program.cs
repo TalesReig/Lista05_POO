@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsumoDeCombustivel
+namespace Questão04
 {
     internal class Program
     {
@@ -12,8 +12,6 @@ namespace ConsumoDeCombustivel
             carro1.KmFinal = 100100;
             carro1.LitrosDeGasolinaInicial = 100;
             carro1.LitrosDeGasolinaFinal = 90;
-
-
         }
 
     }
